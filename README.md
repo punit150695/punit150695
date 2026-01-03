@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on network and security technologies such as multi vendor firewalls, Load Balancers, Routersn Switches, Netbox, ClearPass, Wireless.<br>I am looking to collaborate on cyber Security.<br>I am currently learning Zscaler, Ethical Hacking, Cyber Security Tools such as SIEM tools, EDR, Dark/Deep web tool.
+I am currently working on network and security technologies such as multi vendor firewalls, Load Balancers, Routers, Switches, Netbox, ClearPass, Wireless.<br>I am looking to collaborate in cyber Security.<br>I am currently learning Zscaler, Ethical Hacking, Cyber Security Tools such as SIEM tools, EDR, Dark/Deep web tool.
 
 
 ## 🌐 Socials:
